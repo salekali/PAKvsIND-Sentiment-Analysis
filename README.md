@@ -1,5 +1,4 @@
 # PAKvsIND-Sentiment-Analysis
-# twitter_sentiment_challenge
 
 ## Overview
 
