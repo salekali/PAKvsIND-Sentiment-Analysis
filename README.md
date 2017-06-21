@@ -26,4 +26,4 @@ python demo.py
 
 # Future Work
 
-Will add a python notebook file with visualisation of sentiment analysis data.
+Will add a python notebook file with visualisation of sentiment analysis results.
