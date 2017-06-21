@@ -21,7 +21,7 @@ Install missing dependencies using [pip](https://pip.pypa.io/en/stable/installin
 After installing dependencies, open a terminal and navigate into the directory containing the code. Then run the code via:
 
 ```
-python demo.py
+python PAKvsIND.py
 ```
 
 # Future Work
